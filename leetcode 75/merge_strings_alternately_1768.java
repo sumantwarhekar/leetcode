@@ -1,4 +1,4 @@
-// 1st Approach: Direct
+// 1st Approach: Direct https://www.youtube.com/watch?v=A8LVjVQPaNs
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         int length1 = word1.length();
@@ -30,7 +30,7 @@ class Solution {
     }
 }
 
-// 2nd Approach: Two Pointer Method
+// 2nd Approach: Two Pointer Method https://www.youtube.com/watch?v=I9gPqVj0BHI
 class Solution2 {
     public String mergeAlternately(String word1, String word2) {
         int length1 = word1.length();
