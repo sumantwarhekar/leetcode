@@ -1,5 +1,5 @@
 import java.util.*;
-// 1st Approach : Using HashMap
+// 1st Approach : Using HashMap // https://www.youtube.com/watch?v=A0-XnuPXxqk
 class Solution {
     public int equalPairs(int[][] grid) {
         int n = grid.length, answer=0;
@@ -33,7 +33,7 @@ class Solution {
     }
 }
 
-// 2nd Approach : Using Arrays
+// 2nd Approach : Using Arrays // https://www.youtube.com/watch?v=u5a8x_W6wJk
 class Solution2 {
     public int equalPairs(int[][] grid) {
         int n = grid.length;
