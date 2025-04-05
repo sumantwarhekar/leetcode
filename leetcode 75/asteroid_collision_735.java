@@ -1,3 +1,4 @@
+import java.util.*;                                     // https://www.youtube.com/watch?v=rHoErvk5ch8
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> ast = new Stack<>();
