@@ -1,4 +1,4 @@
-class Solution {
+class Solution {                                                            // https://www.youtube.com/watch?v=ODuICq8exLo
     public long totalCost(int[] costs, int k, int candidates) {
         int n = costs.length;
         PriorityQueue<Integer> pq1 = new PriorityQueue<>();
