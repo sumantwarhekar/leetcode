@@ -1,4 +1,4 @@
-class Solution {
+class Solution {                                                    // https://www.youtube.com/watch?v=WeO_E5Q1kGw
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
         int[] minCost = new int[n+1];
